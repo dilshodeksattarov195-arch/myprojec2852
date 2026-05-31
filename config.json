@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesetch",
+        "uuid": 15392244,
+        "checksum": "ka3wfs"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
